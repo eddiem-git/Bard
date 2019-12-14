@@ -3,5 +3,4 @@ import netscape.javascript.JSException;
 import netscape.javascript.JSObject;
 
 public class Item {
-    JS
 }
